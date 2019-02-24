@@ -5,7 +5,9 @@ http://purrrfect.online/New%20folder/Fox_Game
 Special Thanks to Alvin Roe for tutorial
 https://www.youtube.com/channel/UCBEzA1UQD310iEdiQGgWqwg
 
-and Brackeys for Tutorial aln movement script:
+and Brackeys for Tutorial and movement script:
+
+https://www.youtube.com/user/Brackeys
 
 the newest version of the CharacterController2D can be found https://github.com/Brackeys/2D-Character-Controller
 
