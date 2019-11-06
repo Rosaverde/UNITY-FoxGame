@@ -1,1 +1,13 @@
-FoxGame/Library/il2cpp_cache/linkresult_E221BF17B45AFC224BA53AD8062CF664/build.bc
+FoxGame\Library
+FoxGame\obj
+FoxGame\Temp
+FoxGame\Assembly-CSharp.csproj
+FoxGame\Cinemachine.csproj
+FoxGame\com.unity.cinemachine.editor.csproj
+FoxGame\FoxGame.csproj
+FoxGame\FoxGame.sln
+FoxGame\Unity.Analytics.DataPrivacy.csproj
+FoxGame\Unity.CollabProxy.Editor.csproj
+FoxGame\Unity.PackageManagerUI.Editor.csproj
+FoxGame\Unity.TextMeshPro.csproj
+FoxGame\Unity.TextMeshPro.Editor.csproj
