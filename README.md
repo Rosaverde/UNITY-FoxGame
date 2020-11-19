@@ -1,5 +1,4 @@
 Fox Game is my first challange in UNITY
-http://purrrfect.online/New%20folder/Fox_Game
 
 
 Special Thanks to Alvin Roe for tutorial
